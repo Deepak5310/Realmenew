@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Realme XT</string>
+    <string name="browse_all_categories">Realme XT Development</string>
+    <string name="cat_img">cat_img</string>
+    <string name="r_e_a_l_m_e_x_t">R e a l m e X T</string>
+    <string name="toolbar_img">toolbar_img</string>
+    <string name="custo_rom_img">custo_rom_img</string>
+    <string name="custom_rom">Custom Rom</string>
+    <string name="stock_rom">Stock Rom</string>
+    <string name="google_camera">Google Camera</string>
+    <string name="kernal">Kernel</string>
+    <string name="bootloader_guaid">Bootloader Guide</string>
+    <string name="tools">Tools</string>
+</resources>
